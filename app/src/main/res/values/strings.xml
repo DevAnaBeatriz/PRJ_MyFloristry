@@ -1,0 +1,29 @@
+
+<resources>
+    <string name="app_name">Floristry</string>
+    <string name="attention">Atenção!</string>
+    <string name="back_button">Voltar</string>
+    <string name="delete">Deletar</string>
+    <string name="delete_question">Você tem certeza que deseja deletar?</string>
+    <string name="no_item_description">Não há flores cadastradas.</string>
+    <string name="edit_item_title">Editar Flor</string>
+    <string name="flower">Flor</string>
+    <string name="item_detail_title">Detalhes da Flor</string>
+    <string name="item_entry_title">Adicionar Flor</string>
+    <string name="item_name_req">Nome da Flor*</string>
+    <string name="item_price_req">Preço da Flor*</string>
+    <string name="no">Não</string>
+    <string name="price">Preço</string>
+    <string name="quantity_in_stock">Quantidade no Estoque</string>
+    <string name="in_stock">%d em estoque</string>
+    <string name="quantity_req">Quantidade no Estoque*</string>
+    <string name="save_action">Salvar</string>
+    <string name="sell">Vendido</string>
+    <string name="yes">Sim</string>
+    <string name="required_fields">*Campos obrigatórios!</string>
+    <string name="no_image_available">no_image_available</string>
+    <string name="item_photo_uri">Foto AQUI</string>
+    <string name="item_image_description">Descrição da foto</string>
+    <string name="item_photo">Tire uma foto da Flor*:</string>
+
+</resources>
